@@ -1,4 +1,4 @@
-// wap to check whether the number is positive or negative
+// Write a program to check whether the number is positive or negative
 #include<stdio.h>
 int main()
 {
